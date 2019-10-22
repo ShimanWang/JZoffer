@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="idea_maven" target="1.7" />
+      <module name="maven_Tomcat" target="1.7" />
+      <module name="maven_tomcat" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
